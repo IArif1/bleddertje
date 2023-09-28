@@ -227,7 +227,7 @@ public class Randomizer {
 
         // Easier evolutions
         if (settings.isMakeEvolutionsEasier()) {
-            romHandler.condenseLevelEvolutions(40, 30);
+            romHandler.condenseLevelEvolutions(1, 1);
         }
 
         // Starter Pokemon
